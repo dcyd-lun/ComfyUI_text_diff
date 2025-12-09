@@ -1,0 +1,2 @@
+# ComfyUI TextDiff
+# No external dependencies required - uses Python standard library only

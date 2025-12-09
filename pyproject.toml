@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-text-diff"
+description = "Compare two texts with GitHub/GitLab-style diff highlighting in ComfyUI"
+version = "1.0.0"
+license = {text = "MIT License"}
+readme = "README.md"
+requires-python = ">=3.9"
+
+[project.urls]
+Repository = "https://github.com/dcyd-lun/ComfyUI_text_diff"
+
+[tool.comfy]
+PublisherId = "dcyd-lun"
+DisplayName = "Text Diff"
+Icon = ""
